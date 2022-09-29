@@ -81,3 +81,8 @@ if [ -x /usr/bin/zsh ]; then
   exec /usr/bin/zsh
 fi
 ```
+
+
+Result:
+
+![alt text](sc_zsh.png "Zsh Screenshoot")
