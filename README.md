@@ -29,8 +29,8 @@ git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerl
 https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraMono/Regular/complete/Fira%20Mono%20Regular%20Nerd%20Font%20Complete.otf?raw=true
 ```
 
-UPDATE:
-INSTALL OTHER FONT (FIRACODE) BECAUSE THE OLD ONE IS NOT WORKING WITH UBUNTU 22.04
+**UPDATE:
+INSTALL OTHER FONT (FIRACODE) BECAUSE THE OLD ONE IS NOT WORKING WITH UBUNTU 22.04**
 
 7. Download Plugins for autosuggestion and syntax highlighting
 
@@ -56,15 +56,14 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 9. Change font from terminal settings.
 
-10. Change themes using 
 
-11. Install custom themes using:
+10. Install custom themes using:
 
 ```
 bash -c  "$(wget -qO- https://git.io/vQgMr)"
 ```
 
-12. Set zsh as default shell
+11. Set zsh as default shell
 
 Normal Auth:
 
