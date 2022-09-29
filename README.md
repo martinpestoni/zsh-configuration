@@ -45,7 +45,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 8. Edit zsh conf
 
 ```
-nano ~/.zshrc
+vim ~/.zshrc
 
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
@@ -72,7 +72,7 @@ Normal Auth:
 chsh -s $(which zsh)
 ```
 
-LDAP: edit .bashrc file and place the following code at the end:
+LDAP workaround: edit .bashrc file and place the following code at the end:
 
 ```
 if [ -x /usr/bin/zsh ]; then
