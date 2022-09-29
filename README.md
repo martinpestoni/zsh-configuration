@@ -56,7 +56,6 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 9. Change font from terminal settings.
 
-
 10. Install custom themes using:
 
 ```
